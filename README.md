@@ -19,6 +19,6 @@ Simply enter your desired for the fronts and backs of your cards as prompted or 
 
 You can also add tags to each card, which should be separated by spaces when typing them. The deck name itself is included as a tag automatically
 
-When you import these cards into your deck on Anki Desktop, make sure to select `Comma` as your ``Field separator` and set `Existing Notes` to `Update`. You have to set `Field Mapping: tags` to `3: tags` if you want tags on the cards.
+When you import these cards into your deck on Anki Desktop, make sure to select `Comma` as your `Field separator` and set `Existing Notes` to `Update`. You have to set `Field Mapping: tags` to `3: tags` if you want tags on the cards.
 
 You can also set `Notetype` to `Basic (and reversed)` if you want to practice reproduction in addition to recognition
